@@ -1,0 +1,6 @@
+{
+	"MONGO_USER": "admin",
+	"MONGO_PASSWORD": "admin",
+	"MONGO_DB": "shedule",
+	"JWT_SECRET": "secret"
+}
